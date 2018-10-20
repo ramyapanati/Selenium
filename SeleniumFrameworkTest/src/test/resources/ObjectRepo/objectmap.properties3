@@ -1,0 +1,9 @@
+xero.login.emailaddress =xpath://input[@id='email']
+xero.login.password =xpath://input[@id='password']
+xero.login.login = xpath://button[@id='submitButton']
+xero.login.usersbutton = xpath:/html/body/div[1]/div/div/div[2]/div[1]/div[2]/a
+xero.usersbutton.profile = xpath:/html/body/div[1]/div/div/div[2]/div[1]/div[2]/div/ul/li[1]/a
+xero.profile.uploadphoto = xpath://span[@id='button-1041-btnInnerEl']
+xero.profile.browsephoto = xpath:/html[1]/body[1]/div[15]/div[3]/div[1]/div[1]/div[2]/div[1]/a[1]/span[1]
+xero.browse.upload = id:filefield-1174-button-fileInputEl
+xero.browse.uploadphoto = xpath://span[@id='button-1178-btnInnerEl']

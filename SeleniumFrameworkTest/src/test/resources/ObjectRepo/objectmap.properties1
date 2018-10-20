@@ -1,0 +1,10 @@
+xero.login.freeTrail =xpath://a[@class='btn btn-primary global-ceiling-bar-btn']
+xero.freeTrail.firstName = xpath://input[@name='FirstName']
+xero.freeTrail.lastName = xpath://input[@name='LastName']
+xero.freeTrail.email = xpath://input[@name='EmailAddress']
+xero.freeTrail.phonenumber = xpath://input[@name='PhoneNumber']
+xero.freeTrail.country = xpath:/html/body/div[5]/main/div[1]/div/div/form/div[6]/label/span/select
+xero.freetrail.captcha = cssSelector:.g-recaptcha > div:nth-child(1) > div:nth-child(1) > iframe:nth-child(1)
+xero.captcha.image = xpath://*[@id="rc-imageselect"]
+xero.freetrail.checkBox = xpath://input[@value='true']
+xero.freeTrail.getStarted = xpath://span[@class='g-recaptcha-submit']

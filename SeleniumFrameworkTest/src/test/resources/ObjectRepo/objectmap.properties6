@@ -1,0 +1,10 @@
+xero.login.emailaddress =xpath://input[@id='email']
+xero.login.password =xpath://input[@id='password']
+xero.login.login = xpath://button[@id='submitButton']
+xero.login.account = xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/a[1]
+xero.account.purchases = xpath:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]
+xero.login.usersbutton = xpath:/html/body/div[1]/div/div/div[2]/div[1]/div[2]/a
+xero.usersbutton.logout = xpath://a[contains(text(),'Logout')]
+xero.purchases.new = xpath: //a[@id='ext-gen1035']
+xero.new.paid = xpath://a[contains(text(),'Paid')]
+

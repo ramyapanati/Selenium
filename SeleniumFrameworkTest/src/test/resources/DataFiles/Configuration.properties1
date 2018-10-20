@@ -1,0 +1,3 @@
+firefoxpath=./src/test/resources/Utility/geckodriver.exe
+xeroUrl=https://www.xero.com/us/
+implicitWait=100
